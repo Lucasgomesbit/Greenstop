@@ -4,10 +4,10 @@ Aplicativo de caronas universitárias focado em conectar motoristas e passageiro
 
 ## 📂 Estrutura de Design
 
-Os protótipos de tela e ativos visuais criados no Figma estão organizados na pasta `/design`:
+Os protótipos de tela e ativos visuais criados no Figma estão organizados na pasta `/Design`:
 
-* **[`design/telas`](./design/telas):** Fluxos completos das interfaces do aplicativo (Login, Cadastro, Busca, Oferta de Carona, Perfil e Avaliação).
-* **[`design/icones`](./design/icones):** Biblioteca de ícones e elementos visuais padronizados para o desenvolvimento front-end.
+* **[`Design/telas`](./Design/telas):** Fluxos completos das interfaces do aplicativo (Login, Cadastro, Busca, Oferta de Carona, Perfil e Avaliação).
+* **[`Design/icones`](./Design/icones):** Biblioteca de ícones e elementos visuais padronizados para o desenvolvimento front-end.
 
 ## 📱 Principais Funcionalidades Projetadas
 * Autenticação e cadastro com e-mail institucional (`@cs.udf.edu.br`) e login via Microsoft.
